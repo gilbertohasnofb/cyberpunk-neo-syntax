@@ -6,4 +6,4 @@ Inspired by the [Cyberpunk Theme](https://github.com/n3mo/cyberpunk-theme.el) fo
 
 This is an alternative version of my original [Cyberpunk Theme](https://atom.io/themes/cyberpunk-syntax) for Atom.
 
-![cyberpunk-neo-syntax-screenshot](https://user-images.githubusercontent.com/5700795/42060200-f4eac44c-7b1d-11e8-9844-763fc21f25bd.png)
+![cyberpunk-neo-syntax-screenshot](https://user-images.githubusercontent.com/5700795/42060557-274eba96-7b1f-11e8-805d-23d14d0bbf76.png)
